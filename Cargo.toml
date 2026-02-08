@@ -1,12 +1,11 @@
 [package]
-name = "audiotags"
+name = "audiotags-qobuz"
 version = "0.5.0"
-authors = ["Tianyi <ShiTianyi2001@outlook.com>", "Pierre de la Martinière <pierre.de.la.martiniere@gmail.com>"]
+authors = ["Tianyi <ShiTianyi2001@outlook.com>", "Pierre de la Martinière <pierre.de.la.martiniere@gmail.com>", "Tarneo <tarneo@tarneo.fr>"]
 edition = "2021"
-description = "Unified IO for different types of audio metadata"
+description = "Unified IO for different types of audio metadata (qobuz fork)"
 license = "MIT"
-repository = "https://github.com/TianyiShi2001/audiotags"
-keywords = ["id3", "tag", "tags", "audio", "audiotags"]
+repository = "https://github.com/tarneaux/audiotags"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
